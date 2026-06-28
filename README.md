@@ -99,6 +99,14 @@ https://www.linkedin.com/in/nagaboyina-jahnavi-43b0182a0
 
 ---
 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 # 🏆 Featured Projects
 
 ### 🤖 AI Powered Resume & Interview Preparation Tool
@@ -148,6 +156,7 @@ An educational platform designed for rural diploma colleges with offline-first s
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## 💻 Programming
 
