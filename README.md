@@ -1,319 +1,119 @@
 🚀 Hi there, I'm Nagaboyina Jahnavi 👋
 🎨 UI/UX Designer | 🤖 AI Enthusiast | 💜 IEEE WIE | 💻 IEEE CS Chapter Member
-Passionate about designing intuitive, user-centric digital experiences
-by combining UI/UX Design, Artificial Intelligence, and
-Frontend Development. I enjoy transforming ideas into impactful
-products through research, prototyping, and modern design tools.
-🏆 Smart India Hackathon Level-2 Participant | 💜 IEEE
-Volunteer | 🚀 Continuous Learner
+Passionate about designing intuitive, user-centric digital experiences by combining UI/UX Design, Artificial Intelligence, and Frontend Development. I enjoy transforming ideas into impactful products through user research, prototyping, design thinking, and modern AI-powered design tools.
+🏆 Smart India Hackathon Level-2 Participant | 💜 IEEE Volunteer | 🚀 Continuous Learner
 ---
-```{=html}
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td valign="top" width="50%">
-```
-```{=html}
-<h3>
-```
 🔭 Currently Working On
-```{=html}
-</h3>
-```
-```{=html}
-<ul>
-```
-```{=html}
-<li>
-```
-AI Powered Resume & Interview Preparation Tool
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-AI Diet & Fitness Tracker
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-UI/UX Case Studies & Design Portfolio
-```{=html}
-</li>
-```
-```{=html}
-</ul>
-```
-```{=html}
+🤖 AI Powered Resume & Interview Preparation Tool
+🥗 AI Diet & Fitness Tracker
+🎨 UI/UX Case Studies
+🌐 Personal Portfolio Website
 </td>
-```
-```{=html}
 <td valign="top" width="50%">
-```
-```{=html}
-<h3>
-```
 🌱 Currently Learning
-```{=html}
-</h3>
-```
-```{=html}
-<ul>
-```
-```{=html}
-<li>
-```
 Advanced UI/UX Design
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-React & Frontend Development
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
+React.js
+Frontend Development
 AI-assisted Product Design
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-Design Systems & Accessibility
-```{=html}
-</li>
-```
-```{=html}
-</ul>
-```
-```{=html}
+Design Systems
+Accessibility (WCAG)
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td valign="top">
-```
-```{=html}
-<h3>
-```
 👯 Looking to Collaborate On
-```{=html}
-</h3>
-```
-```{=html}
-<ul>
-```
-```{=html}
-<li>
-```
-Open Source UI Projects
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
+Open Source UI/UX Projects
 Figma Design Systems
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
 AI Applications
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
 Frontend Development
-```{=html}
-</li>
-```
-```{=html}
-</ul>
-```
-```{=html}
+Smart India Hackathon Projects
 </td>
-```
-```{=html}
 <td valign="top">
-```
-```{=html}
-<h3>
-```
 💡 Areas of Interest
-```{=html}
-</h3>
-```
-```{=html}
-<ul>
-```
-```{=html}
-<li>
-```
 UI/UX Design
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-Artificial Intelligence
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
 Product Design
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
+Artificial Intelligence
+Human Computer Interaction
+Unity 3D
 Frontend Development
-```{=html}
-</li>
-```
-```{=html}
-</ul>
-```
-```{=html}
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td valign="top">
-```
-```{=html}
-<h3>
-```
 💬 Ask Me About
-```{=html}
-</h3>
-```
-```{=html}
-<ul>
-```
-```{=html}
-<li>
-```
 Figma
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-Wireframing & Prototyping
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
+UI/UX Design
+Wireframing
+Prototyping
 Design Thinking
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-Python Basics
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
+Python
+Unity 3D
 IEEE Activities
-```{=html}
-</li>
-```
-```{=html}
-</ul>
-```
-```{=html}
 </td>
-```
-```{=html}
 <td valign="top">
-```
-```{=html}
-<h3>
-```
 📫 Reach Me
-```{=html}
-</h3>
-```
-`<a href="mailto:jahnavi.nagaboyina@sasi.ac.in">`{=html}
-jahnavi.nagaboyina@sasi.ac.in `</a>`{=html}
-```{=html}
+📧 Email  
+<a href="mailto:jahnavi.nagaboyina@sasi.ac.in">jahnavi.nagaboyina@sasi.ac.in</a>
+💼 LinkedIn  
+https://www.linkedin.com/in/nagaboyina-jahnavi-43b0182a0
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
+---
+🐍 Contribution Snake
+<div align="center">
+> Enable the GitHub Snake Action, then this image will appear automatically.
+![Snake animation](https://raw.githubusercontent.com/23K61A05C4/23K61A05C4/output/github-contribution-grid-snake-dark.svg)
+</div>
 ---
 🏆 Featured Projects
 🤖 AI Powered Resume & Interview Preparation Tool
+AI-powered platform for ATS resume building, mock interviews, AI feedback and interview preparation.
 🥗 AI Diet & Fitness Tracker
+Healthcare application offering AI-based diet recommendations, workout guidance and medication reminders.
 🛒 Swiggy Grocery Subscription UX
-🎓 EduGramix (Smart India Hackathon)
+Designed personalized grocery subscription flows and seamless checkout using Figma.
+🎓 EduGramix
+Smart India Hackathon project focused on improving education access for rural diploma colleges.
 ---
 🏅 Achievements
-🏆 Smart India Hackathon 2025 -- Advanced to Level 2
+🏆 Smart India Hackathon – Level 2
 💜 IEEE CS Chapter Member & Event Coordinator
-🤖 AI Intern -- Skill Dzire Technologies
+🤖 AI Intern – Skill Dzire Technologies
 📊 Deloitte Data Analytics Job Simulation
 🎨 PurpleLane UI/UX Workshop
 ---
 💻 Tech Stack
-Design
+🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-Programming
+💻 Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+🤖 AI & Design Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=23K61A05C4&show_icons=true&theme=tokyonight)
-![](https://streak-stats.demolab.com/?user=23K61A05C4&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=23K61A05C4&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=23K61A05C4&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=23K61A05C4&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=23K61A05C4&layout=compact&theme=tokyonight&hide_border=true)
 ---
 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=23K61A05C4&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=23K61A05C4&theme=tokyonight&no-frame=true)
 ---
 ✨ Motto
-> Design with Empathy. Build with Purpose. Learn Continuously.
+> **Design with Empathy. Build with Purpose. Learn Continuously. Innovate Fearlessly.**
 ---
-![](https://komarev.com/ghpvc/?username=23K61A05C4&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=23K61A05C4&color=blueviolet&style=for-the-badge)
